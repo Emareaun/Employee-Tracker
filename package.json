@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.0",
+    "sequelize": "^6.32.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sql-employee-tracker",
+  "description": "CLI-based content management systems (CMS) to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "murpheycm",
+  "license": "ISC"
+}
